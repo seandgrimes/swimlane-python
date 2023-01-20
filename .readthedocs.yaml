@@ -29,5 +29,5 @@ python:
     - requirements: docs/requirements.txt
     - requirements: requirements.txt
     - method: pip
-      path: .
+      path: bogus/
   system_packages: true
